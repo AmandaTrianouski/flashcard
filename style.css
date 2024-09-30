@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(236, 211, 181);
+}
 #container {
     display:flex ;
 }
@@ -6,6 +9,6 @@
 }
 .cartao {
     margin: 1rem 1rem;
-    background-color: aqua;
+    background-color: rgb(102, 192, 192);
     height: 20rem;
 }
